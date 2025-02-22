@@ -332,8 +332,8 @@
 
 .save-dialog__floppy {
   flex-shrink: 0;
-  width: 39px;
-  height: 39px;
+  inline-size: 39px;
+  block-size: 39px;
   color: black;
   fill: black;
 }
